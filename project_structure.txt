@@ -1,0 +1,14 @@
+Estructura de: letterboxdrecommender
+==============================
+└── letterboxdrecommender/
+    ├── imdb_model/
+    │   ├── __init__.py (0 bytes)
+    │   ├── model.py (1624 bytes)
+    │   └── utils.py (3459 bytes)
+    ├── pages/
+    │   └── 2_Movie_Night.py (4733 bytes)
+    ├── scraping/
+    ├── 1_Recomendame.py (4223 bytes)
+    ├── README.md (474 bytes)
+    ├── imdb_top1000.csv (349885 bytes)
+    └── requirements.txt (64 bytes)
